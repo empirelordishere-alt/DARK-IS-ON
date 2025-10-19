@@ -1,0 +1,18 @@
+{
+  "1131173873442889818": {
+    "currencies": {
+      "soul_fragments": 200,
+      "cursed_essence": 20,
+      "tombstone_coins": 100,
+      "lords_blood": 0,
+      "void_crystals": 0
+    },
+    "level": 2,
+    "xp": 75,
+    "prestige": 0,
+    "messages": 12,
+    "daily_streak": 0,
+    "last_daily": null,
+    "team": null
+  }
+}
